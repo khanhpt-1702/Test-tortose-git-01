@@ -1,3 +1,3 @@
 âcc
-edit and commit with source tree
-edit and commit with tortosegit
+edit and commit with tortose-git
+s
